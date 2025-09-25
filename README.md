@@ -29,7 +29,7 @@ to my personal GitHub profile!
       <a href="https://youtu.be/Uw5OLnN7UvM?si=q-9L-xuDsqFF6M4r">
         <strong>Listen to cool music</strong>
         <br /><br />
-        <img alt="Music" height="150" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/music.gif"> 
+        <img alt="Music" height="150" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/music.gif">
       </a>
     </td>
   </tr>
