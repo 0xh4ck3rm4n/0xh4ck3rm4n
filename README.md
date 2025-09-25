@@ -28,7 +28,7 @@ to my personal GitHub profile!
 
 <p>
 
-<img alt="Globe" height="120" src="https://github.com/fnky/fnky/raw/fnky/img/website.gif">
+<img alt="Globe" height="120" width="150" src="https://github.com/fnky/fnky/raw/fnky/img/website.gif">
 </a>
 </p>
 
@@ -43,7 +43,7 @@ to my personal GitHub profile!
 
 
 <p>
-<img height="150" alt="Music" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/music.gif"> 
+<img height="150" width="150" alt="Music" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/music.gif"> 
 </a>
 </p>
 
