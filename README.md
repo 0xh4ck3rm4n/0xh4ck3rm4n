@@ -16,11 +16,40 @@ to my personal GitHub profile!
 <img src="https://www.bloggif.com/tmp/53ef6224826d476a6663e7c904b228b4/text.gif?1758802111" alt="Profile Name" align="center">
 </div>
 
-<h3 align="center">
-<a href="https://0xh4ck3rm4n.vercel.app/">Visit my personal homepage
-<img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
+
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://0xh4ck3rm4n.vercel.app/">
+<strong>Visit my personal homepage</strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Globe" height="80" src="https://github.com/fnky/fnky/raw/fnky/img/website.gif">
 </a>
-</h3>
+</p>
+
+</td>
+
+
+<td align="center">
+<a href="https://youtu.be/Uw5OLnN7UvM?si=q-9L-xuDsqFF6M4r">
+<strong>Listen to cool music</strong>
+<br />
+<br />
+
+
+<p>
+<img height="100" alt="Music" src="images/music.gif"> 
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 <hr>
 
