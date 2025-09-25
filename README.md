@@ -17,27 +17,24 @@ to my personal GitHub profile!
 </div>
 
 
-<table width="100%" align="center" border="0" cellspacing="20" cellpadding="10" style="margin-top: 15px;">
+<table width="100%" align="center" style="margin-top: 10px; border-spacing: 20px;">
   <tr>
-    <!-- Globe Section -->
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" style="width: 50%;">
       <a href="https://0xh4ck3rm4n.vercel.app/">
         <strong>Visit my personal homepage</strong>
         <br /><br />
-        <img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Globe" height="120">
+        <img alt="Globe" height="120" src="https://github.com/fnky/fnky/raw/fnky/img/website.gif">
       </a>
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" style="width: 50%;">
       <a href="https://youtu.be/Uw5OLnN7UvM?si=q-9L-xuDsqFF6M4r">
         <strong>Listen to cool music</strong>
         <br /><br />
-        <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/music.gif" alt="Music" height="150">
+        <img alt="Music" height="150" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/music.gif"> 
       </a>
     </td>
   </tr>
 </table>
-
-
 
 <hr>
 
