@@ -12,13 +12,13 @@ to my personal GitHub profile!
 
 <hr>
 
-<div alig="center">
+<div alig="center" style="margin-bottom: 10px;>
 <img src="https://www.bloggif.com/tmp/53ef6224826d476a6663e7c904b228b4/text.gif?1758802111" alt="Profile Name" align="center">
 </div>
 
 
 <table width="100%" align="center">
-<tr style="margin-top: 40px; border-spacing: 20px;">
+<tr>
 <td align="center">
 <a href="https://0xh4ck3rm4n.vercel.app/">
 <strong>Visit my personal homepage</strong>
