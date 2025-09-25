@@ -10,8 +10,10 @@
 to my personal GitHub profile!
 </div>
 
+<hr>
+
 <div alig="center">
-<img src="https://www.bloggif.com/tmp/53ef6224826d476a6663e7c904b228b4/text.gif?1758802111" alt="Visit homepage" align="center">
+<img src="https://www.bloggif.com/tmp/53ef6224826d476a6663e7c904b228b4/text.gif?1758802111" alt="Profile Name" align="center">
 </div>
 
 <h3 align="center">
