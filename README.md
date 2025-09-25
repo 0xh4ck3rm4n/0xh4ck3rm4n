@@ -70,7 +70,7 @@ to my personal GitHub profile!
 
 <div align="center">
 <p></p>
-<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+<img src="https://profile-counter.deno.dev/0xh4ck3rm4n/count.svg" alt="hit counter" align="center">
 </div>
 
 <div align="center">
