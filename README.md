@@ -17,7 +17,7 @@ to my personal GitHub profile!
 </div>
 
 
-<table width="100%" align="center" style="margin-top: 10px; border-spacing: 20px;">
+<table width="100%" align="center" style="margin-top: 20px; border-spacing: 20px;">
 <tr>
 <td align="center">
 <a href="https://0xh4ck3rm4n.vercel.app/">
