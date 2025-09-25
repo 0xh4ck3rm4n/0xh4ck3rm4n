@@ -43,7 +43,7 @@ to my personal GitHub profile!
 
 
 <p>
-<img height="120" width="150" alt="Music" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/music.gif"> 
+<img height="120" width="155" alt="Music" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/music.gif"> 
 </a>
 </p>
 
