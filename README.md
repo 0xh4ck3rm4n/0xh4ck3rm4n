@@ -10,6 +10,10 @@
 to my personal GitHub profile!
 </div>
 
+<div alig="center">
+<img src="https://www.bloggif.com/tmp/53ef6224826d476a6663e7c904b228b4/text.gif?1758802111" alt="Visit homepage" align="center">
+</div>
+
 <h3 align="center">
 <a href="https://0xh4ck3rm4n.vercel.app/">Visit my personal homepage
 <img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
