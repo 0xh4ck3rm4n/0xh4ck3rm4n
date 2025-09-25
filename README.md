@@ -17,37 +17,23 @@ to my personal GitHub profile!
 </div>
 
 
-<table width="100%" align="center">
+<table width="100%" align="center" style="margin-top: 30px; border-spacing: 20px;">
 <tr>
-<td align="center">
-<a href="https://0xh4ck3rm4n.vercel.app/">
-<strong>Visit my personal homepage</strong>
-<br />
-<br />
-<br />
+  <td align="center" valign="top" style="width: 50%;">
+    <a href="https://0xh4ck3rm4n.vercel.app/">
+      <strong>Visit my personal homepage</strong>
+      <br /><br />
+      <img alt="Globe" height="120" src="https://github.com/fnky/fnky/raw/fnky/img/website.gif">
+    </a>
+  </td>
 
-<p>
-
-<img alt="Globe" height="120" width="150" src="https://github.com/fnky/fnky/raw/fnky/img/website.gif">
-</a>
-</p>
-
-</td>
-
-
-<td align="center">
-<a href="https://youtu.be/Uw5OLnN7UvM?si=q-9L-xuDsqFF6M4r">
-<strong>Listen to cool music</strong>
-<br />
-<br />
-
-
-<p>
-<img height="120" width="155" alt="Music" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/music.gif"> 
-</a>
-</p>
-
-</td>
+  <td align="center" valign="top" style="width: 50%;">
+    <a href="https://youtu.be/Uw5OLnN7UvM?si=q-9L-xuDsqFF6M4r">
+      <strong>Listen to cool music</strong>
+      <br /><br />
+      <img height="150" alt="Music" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/music.gif"> 
+    </a>
+  </td>
 </tr>
 </table>
 
